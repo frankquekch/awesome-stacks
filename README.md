@@ -1,24 +1,3 @@
-<div align="center">
-<a href="https://awesomestacks.dev/"><img alt="Pink sunglasses with text Awesome Stacks" width="680px" src="src/images/awesome-stacks-logo-github.png"></a>
-<br><br>
-<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
-</div>
-
-# Awesome Stacks
-[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/stackshare/awesome-stacks)
-
-> Tech stacks for building different applications and features.
-
-Awesome Stacks is a community-curated list of tech stacks for building different applications and features. It is open source and inspired by the original [awesome list](http://awesome.re/).
-
-Each stack in the list has a name, description, and list of a few of the key tools and technologies. Optionally, it links to a tutorial, starter kit or boilerplate that makes it easy to get started with.
-
-Got a stack you think is a great way to build something? Please edit this file and add it! Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
-
-### Browsing the stacks
-
-Stacks can be browsed in two places—on the README and on [awesomestacks.dev](https://awesomestacks.dev/). The site, built with Gatsby and React, displays logos and metrics about each tool listed in the README by pulling data from the GitHub and StackShare APIs.
-
 ### Legend
 
 🛠 - StackShare tool profile<br>
